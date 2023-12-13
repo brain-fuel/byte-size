@@ -7,8 +7,8 @@ Right, well, here we are! I'm Matt Laine, and this is Byte-Sized Brain Fuel: Eig
 Remember, every step forward counts. No matter how small or incremental your progress may seem, each effort brings you closer to your goals. The journey of a thousand miles begins with a single step, and every step after that is just as important. Keep moving, keep striving, and celebrate every bit of progress along the way.
 ### 2/8: Computer Bit
 1 bit = 0 or 1  
-8 bits = 1 byte
-Bytes can be used to encode characters. Here is a link to an [ASCII Chart](https://web.cecs.pdx.edu/~harry/compilers/ASCIIChart.pdf).
+8 bits = 1 byte  
+Bytes can be used to encode characters. Here is a link to an [ASCII Chart](https://web.cecs.pdx.edu/~harry/compilers/ASCIIChart.pdf).  
 ### 3/8: Grammar Bit
 Proper Use of Pronouns: Pronouns should clearly refer to a specific noun and agree with it in number and gender. Avoid ambiguous pronoun references.  
 #### Ambiguous
