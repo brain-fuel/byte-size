@@ -63,9 +63,9 @@ This quote serves as a reminder of our responsibility to take a stand against ev
 
 In "The Republic," Plato describes prisoners who have been chained inside a cave all their lives, facing a blank wall. They watch shadows projected on the wall from objects passing in front of a fire behind them and believe these shadows are reality.
 
-### Possible Interpretation
+### Explication
 
-This allegory is a commentary on human perception and the journey from ignorance to enlightenment. Plato suggests that the philosopher, through education, turns away from the shadows (illusions) to see the true forms (reality).
+This allegory is Plato's commentary on human perception and the journey from ignorance to enlightenment. Plato suggests that the philosopher, through education, turns away from the shadows (illusions) to see the true forms (reality).
 
 ## Rhetoric   :: Rhythm and Repetition
 
