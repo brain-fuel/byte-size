@@ -32,11 +32,11 @@ The water cycle is a continuous process by which water circulates between the Ea
 - **Collection:** Water collects in bodies of water, soaks into the earth and replenishes groundwater, starting the cycle anew.
 - **Importance:** This cycle not only supports life but also plays a crucial role in weather patterns and climate.
 ### 5/8: Memorize This Bit
-**"To be or not to be, that is the question." - Shakespeare**
+> "The only thing necessary for the triumph of evil is for good men to do nothing." - Edmund Burke
 #### Context
-From William Shakespeare's play, "Hamlet," this line is one of the most famous in English literature. It reflects Hamlet's profound existential crisis and contemplation of life and death.
+Attributed to Edmund Burke, an Irish statesman and philosopher, this quote is a powerful call to action. It emphasizes the importance of active participation in the face of wrongdoing or injustice.
 #### Significance
-This quote can cause us to meditate on the human condition, choices, and the nature of existence.
+This quote serves as a reminder of our responsibility to take a stand against evil in any form. It encourages action and vigilance in the pursuit of goodness.
 ### 6/8: Philosophy Bit
 #### "The Allegory of the Cave" by Plato
 ##### Summary
