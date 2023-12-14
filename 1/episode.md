@@ -17,7 +17,7 @@ Pronouns should clearly refer to a specific noun and agree with it in number and
 ### Ambiguous
 
 "When Jane gave Sarah her book, she said it was excellent."  
-In this sentence, "she" and "her" are ambiguous. It's not clear whether "she" and "her" refer to Jane or Sarah.  
+In this sentence, "she" and "her" are ambiguous. It's not clear whether "she" and "her" refer to Jane or Sarah. You may very well know what you meant by this, but nobody else does.  
 To avoid this ambiguity, you can rephrase the sentence to make the antecedent clear:  
 
 ### Clear
